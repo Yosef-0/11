@@ -1,3 +1,4 @@
+
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
 * {
@@ -19,7 +20,7 @@ body {
   width: 100%;
   font-family: "Poppins", sans-serif;
   place-items: center;
-  background: linear-gradient(315deg, #131212, #d7e1ec);
+  background: linear-gradient(315deg, #039999, #3c3f42);
 }
 
 .wrapper {
@@ -93,7 +94,7 @@ body {
 .wrapper .twitter:hover,
 .wrapper .twitter:hover .tooltip,
 .wrapper .twitter:hover .tooltip::before {
-  background: #222222;
+  background: rgb(0, 108, 112);
   color: #ffffff;
 }
 
